@@ -54,10 +54,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SetyVII&theme=dark&hide_border=true&show_icons=true" height="180" alt="stats graph" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SetyVII&theme=dark&hide_border=true&layout=compact" height="180" alt="languages graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SetyVII&theme=dark&hide_border=true&show_icons=true" height="180" alt="GitHub Stats" />
+  
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SetyVII&theme=react-dark" width="100%" alt="Activity Graph" />
+</div>
 
 </div>
