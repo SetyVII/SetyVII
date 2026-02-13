@@ -54,10 +54,9 @@
 
 ## 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=SetyVII&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" alt="stats graph" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SetyVII&theme=react-dark" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SetyVII&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SetyVII&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="180" alt="stats graph" />
+  &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SetyVII&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="180" alt="languages graph" />
 </p>
 
 </div>
