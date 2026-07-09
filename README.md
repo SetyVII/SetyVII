@@ -1,65 +1,65 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on **Linux Window Managers (WM)** or **PKM tools**.<br>
-🤝 I’m looking for help from passionate developers regarding projects with a **steep learning curve**.<br>
-🌱 I’m currently learning how to use frameworks and languages like **Go**.<br>
-💬 Ask me about **anything**. I'm open to suggestions or quotes.
+![Sebastian Vilavila — Software Developer](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0E0F14,50:2A2342,100:785CFF&text=Sebastian%20Vilavila&fontColor=E8E6E3&fontSize=42&fontAlignY=35&desc=Software%20Developer%20%7C%20Java%20%7C%20Spring%20%7C%20Drupal%20%7C%20Linux&descSize=16&descAlignY=58)
+
+# About Me
+
+**Software Developer based in Madrid.**
+
+Java-focused developer with experience in **Spring**, **PostgreSQL**, **Docker**, **Drupal** and cross platform development.
 
 ---
 
-<div align="center">
+## Connect with me
 
-## 🌐 Socials:
-<a href="mailto:dreaming4splendid@protonmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://tu-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
-</a>
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sebastian.vilavila@protonmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0E0F14?style=for-the-badge&logo=firefox&logoColor=9CB79B)](https://sebastianvilavila.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2A2342?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianvilavila)
 
-<br/>
+---
 
-## 💻 Tech Stack
+## Tech Stack
 
-<h3>Languages</h3>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+### Core
 
-<h3>Frontend & Frameworks</h3>
-<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" />
+![Java](https://img.shields.io/badge/Java-2A2342?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-2A2342?style=for-the-badge&logo=spring&logoColor=9CB79B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2A2342?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2A2342?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-2A2342?style=for-the-badge&logo=linux&logoColor=white)
 
-<h3>Backend & Database</h3>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+### Web & Frontend
 
-<h3>Tools & DevOps</h3>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+![Drupal](https://img.shields.io/badge/Drupal-785CFF?style=for-the-badge&logo=drupal&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-785CFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-785CFF?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-785CFF?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-785CFF?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-785CFF?style=for-the-badge&logo=sass&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-785CFF?style=for-the-badge&logo=accessibility&logoColor=white)
 
-<br/><br/>
+### Tools & Workflow
 
-## 📊 GitHub Stats
+![Docker](https://img.shields.io/badge/Docker-0E0F14?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0E0F14?style=for-the-badge&logo=docker&logoColor=2496ED)
+![YAML](https://img.shields.io/badge/YAML-0E0F14?style=for-the-badge&logo=yaml&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-0E0F14?style=for-the-badge&logo=gnubash&logoColor=9CB79B)
+![Trello](https://img.shields.io/badge/Trello-0E0F14?style=for-the-badge&logo=trello&logoColor=0079BF)
+![Postman](https://img.shields.io/badge/Postman-0E0F14?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Neovim](https://img.shields.io/badge/Neovim-0E0F14?style=for-the-badge&logo=neovim&logoColor=9CB79B)
+![VS Code](https://img.shields.io/badge/VS%20Code-0E0F14?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SetyVII&theme=dark&hide_border=true&show_icons=true" height="180" alt="GitHub Stats" />
-  
-  <br/><br/>
+### Familiar With
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SetyVII&theme=react-dark" width="100%" alt="Activity Graph" />
-</div>
+![Angular](https://img.shields.io/badge/Angular-191626?style=for-the-badge&logo=angular&logoColor=white)
+![Android](https://img.shields.io/badge/Android-191626?style=for-the-badge&logo=android&logoColor=9CB79B)
+![TypeScript](https://img.shields.io/badge/TypeScript-191626?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-191626?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-191626?style=for-the-badge&logo=csharp&logoColor=white)
 
-</div>
+
+## GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SetyVII&theme=tokyo-night&hide_border=true&area=true)
+
+---
+
+> Building software that solves real problems.
